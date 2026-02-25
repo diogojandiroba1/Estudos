@@ -1,0 +1,6 @@
+[submodule "Estudos_DL"]
+	path = Estudos_DL
+	url = https://github.com/diogojandiroba1/Estudos_DL.git
+[submodule "Estudo_IA"]
+	path = Estudo_IA
+	url = https://github.com/diogojandiroba1/Estudo_IA.git
